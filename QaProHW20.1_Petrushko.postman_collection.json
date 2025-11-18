@@ -92,7 +92,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"name\": \"{{$randomFirstName}}\",\r\n  \"lastName\": \"{{$randomLastName}}\",\r\n  \"email\": \"{{email}}\",\r\n  \"password\": \"{{pwd}}\",\r\n  \"repeatPassword\": \"{{pwd}}\"\r\n}",
+					"raw": "{\r\n  \"name\": \"SomeName\",\r\n  \"lastName\": \"SomeLastName\",\r\n  \"email\": \"someEmail@tets.com\",\r\n  \"password\": \"{{pwd}}\",\r\n  \"repeatPassword\": \"{{pwd}}\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -697,4 +697,5 @@
 			"value": ""
 		}
 	]
+
 }
